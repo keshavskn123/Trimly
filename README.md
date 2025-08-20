@@ -117,15 +117,6 @@ Before you begin, ensure you have met the following requirements:
 
    The frontend should now be running on `http://localhost:5173`.
 
-## Deployment
-
-The backend is currently deployed on [Render.com](https://render.com). The frontend can be deployed on platforms like Netlify, Vercel, or any other static hosting provider.
-
-### Steps for Deployment
-
-1. **Backend**: Push your backend code to a GitHub repository. Connect your Render account to the repository and deploy the application. Set the necessary environment variables on Render.
-2. **Frontend**: Build the frontend using `npm run build`. Deploy the `build` folder to your preferred static hosting provider.
-
 ## API Documentation
 
 API documentation is available and can be accessed through the Swagger UI (only available when the development server is running):
