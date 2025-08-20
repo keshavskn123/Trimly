@@ -117,12 +117,6 @@ Before you begin, ensure you have met the following requirements:
 
    The frontend should now be running on `http://localhost:5173`.
 
-## API Documentation
-
-API documentation is available and can be accessed through the Swagger UI (only available when the development server is running):
-
-- **Swagger UI**: [http://localhost:3000/v1/docs](http://localhost:3000/v1/docs)
-
 ## Troubleshooting
 
 ### Handling API Downtime
