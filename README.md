@@ -2,38 +2,6 @@
 
 Welcome to the Barbershop Management System, a web application designed to help barbershops manage appointments, barbers, and customer reviews efficiently. This project includes both a frontend and a backend, deployed separately, to offer a complete management solution.
 
-## Table of Contents
-
-- [Barbershop Management System](#barbershop-management-system)
-  - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
-  - [Features](#features)
-    - [Proposed Features](#proposed-features)
-  - [Tech Stack](#tech-stack)
-    - [Frontend](#frontend)
-    - [Backend](#backend)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Running Locally](#running-locally)
-  - [Deployment](#deployment)
-    - [Steps for Deployment](#steps-for-deployment)
-  - [API Documentation](#api-documentation)
-  - [Troubleshooting](#troubleshooting)
-    - [Handling API Downtime](#handling-api-downtime)
-    - [Common Issues](#common-issues)
-  - [Contributing](#contributing)
-  - [License](#license)
-
-## Demo
-
-Check out the live demo of the application:
-
-- **Frontend**: [Barbershop Management System](https://appointment-management-fe.vercel.app/)
-- **Backend Repository**: [Barbershop API](https://github.com/stekatag/barbershop-api)
-
-> **Note**: The backend API is deployed on a free-tier service, which may go to sleep after periods of inactivity. If the API is asleep, the frontend will show a notification allowing you to wake the server manually.
-
 ## Features
 
 - **User Authentication**: Secure login and registration for users, barbers, and admins.
